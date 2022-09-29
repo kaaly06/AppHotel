@@ -1,0 +1,27 @@
+D:\Kaly 2° ds\Mobile\AppHotel\AppHotel\AppHotel\obj\Debug\netstandard2.0\AppHotel.csproj.AssemblyReference.cache
+D:\Kaly 2° ds\Mobile\AppHotel\AppHotel\AppHotel\obj\Debug\netstandard2.0\AppHotel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaly 2° ds\Mobile\AppHotel\AppHotel\AppHotel\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Kaly 2° ds\Mobile\AppHotel\AppHotel\AppHotel\obj\Debug\netstandard2.0\View\ContratacaoHospedagem.xaml.g.cs
+D:\Kaly 2° ds\Mobile\AppHotel\AppHotel\AppHotel\obj\Debug\netstandard2.0\View\OrcamentoHospedagem.xaml.g.cs
+D:\Kaly 2° ds\Mobile\AppHotel\AppHotel\AppHotel\obj\Debug\netstandard2.0\AppHotel.AssemblyInfoInputs.cache
+D:\Kaly 2° ds\Mobile\AppHotel\AppHotel\AppHotel\obj\Debug\netstandard2.0\AppHotel.AssemblyInfo.cs
+D:\Kaly 2° ds\Mobile\AppHotel\AppHotel\AppHotel\obj\Debug\netstandard2.0\AppHotel.csproj.CoreCompileInputs.cache
+D:\Kaly 2° ds\Mobile\AppHotel\AppHotel\AppHotel\obj\Debug\netstandard2.0\AppHotel.dll
+D:\Kaly 2° ds\Mobile\AppHotel\AppHotel\AppHotel\obj\Debug\netstandard2.0\refint\AppHotel.dll
+D:\Kaly 2° ds\Mobile\AppHotel\AppHotel\AppHotel\obj\Debug\netstandard2.0\AppHotel.pdb
+C:\Users\Usuario\Desktop\AppHotel\AppHotel\AppHotel\obj\Debug\netstandard2.0\AppHotel.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\AppHotel\AppHotel\AppHotel\obj\Debug\netstandard2.0\AppHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\AppHotel\AppHotel\AppHotel\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Usuario\Desktop\AppHotel\AppHotel\AppHotel\obj\Debug\netstandard2.0\View\ContratacaoHospedagem.xaml.g.cs
+C:\Users\Usuario\Desktop\AppHotel\AppHotel\AppHotel\obj\Debug\netstandard2.0\View\OrcamentoHospedagem.xaml.g.cs
+C:\Users\Usuario\Desktop\AppHotel\AppHotel\AppHotel\obj\Debug\netstandard2.0\AppHotel.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\AppHotel\AppHotel\AppHotel\obj\Debug\netstandard2.0\AppHotel.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\AppHotel\AppHotel\AppHotel\obj\Debug\netstandard2.0\AppHotel.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\AppHotel\AppHotel\AppHotel\obj\Debug\netstandard2.0\AppHotel.dll
+C:\Users\Usuario\Desktop\AppHotel\AppHotel\AppHotel\obj\Debug\netstandard2.0\refint\AppHotel.dll
+C:\Users\Usuario\Desktop\AppHotel\AppHotel\AppHotel\obj\Debug\netstandard2.0\AppHotel.pdb
+C:\Users\Usuario\Desktop\AppHotel\AppHotel\AppHotel\bin\Debug\netstandard2.0\AppHotel.deps.json
+C:\Users\Usuario\Desktop\AppHotel\AppHotel\AppHotel\bin\Debug\netstandard2.0\AppHotel.dll
+C:\Users\Usuario\Desktop\AppHotel\AppHotel\AppHotel\bin\Debug\netstandard2.0\AppHotel.pdb
+C:\Users\Usuario\Desktop\AppHotel\AppHotel\AppHotel\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Usuario\Desktop\AppHotel\AppHotel\AppHotel\obj\Debug\netstandard2.0\ref\AppHotel.dll
